@@ -1,0 +1,12 @@
+{
+    "name": "Creature Cards",
+    "version": "0.0.1",
+    "dependencies": {
+        "jquery": null,
+        "underscore": null,
+        "backbone": null,
+        "marionette": null,
+        "requirejs": null,
+        "requirejs-tpl": null
+    }
+}
